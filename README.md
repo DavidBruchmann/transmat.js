@@ -4,7 +4,7 @@ For any kind of usage, issues, support, etc. please refer to the authors' sites:
 
 * https://github.com/google/transmat
 * https://google.github.io/transmat/ 
-* https://web.dev/datatransfer/https://web.dev/datatransfer/
+* https://web.dev/datatransfer/
 
 ## short description
 
